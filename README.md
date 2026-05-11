@@ -37,6 +37,9 @@ CREATE TABLE retail_sales
 			   price_per_unit FLOAT,
 			   cogs FLOAT,
 			   total_sale FLOAT
-)
+);
+```
+
+
 
 
